@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Vol 1 de Dragon ball",
+    "price": 4500,
+    "category": "Manga",
+    "description": ": Primer manga de Dragon ball.",
+    "imageUrl": "/images/MangaDB1.png"
+  },
+  {
+    "id": "2",
+    "name": "Banda Ninja",
+    "price": 3200,
+    "category": "Accesorio",
+    "description": ": Banda ninja de la serie de naruto.",
+    "imageUrl": "/images/Banda ninja.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Okita souji",
+    "category": "Figura",
+    "price": 15000,
+    "description": ": figura de okita souji de Fate/Grand order",
+    "imageUrl": "/images/Okita.png"
+  }
+]
